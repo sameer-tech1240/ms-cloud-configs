@@ -1,0 +1,11 @@
+build:
+  version : 1.0.0-qa
+
+accounts:
+  message: "This is the QA environment for Accounts Service"
+  contactDetails:
+    name: "Sameer Siddiqui"
+    email: "accounts-qa@bank.com"
+  onCallSupport:
+    - "5345343245"
+    - "2222222222"
