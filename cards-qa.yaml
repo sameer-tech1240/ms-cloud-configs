@@ -1,0 +1,11 @@
+build:
+  version : 1.0.0-qa
+
+cards:
+  message: "This is the QA environment for Cards Service"
+  contactDetails:
+    name: "QA Support"
+    email: "test@gmail.com"
+  onCallSupport:
+    - (+91) 1234567890
+    - (+91) 9876543210
