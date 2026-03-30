@@ -1,0 +1,11 @@
+build:
+  version : 1.0.0-qa
+
+loans:
+  message: "This is the QA environment for Loans Service"
+  contactDetails:
+    name: "QA Support"
+    email: "aktest@gmail.com"
+  onCallSupport:
+    - (+91) 1234567890
+    - (+91) 9876543210
