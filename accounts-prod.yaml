@@ -1,0 +1,11 @@
+build:
+  version: "1.0-PROD"
+
+accounts:
+  message: "Welcome to Accounts Production APIs"
+  contactDetails:
+    name: "Accounts Prod Support"
+    email: "accounts-prod@bank.com"
+  onCallSupport:
+    - "9999999999"
+    - "8888888888"
