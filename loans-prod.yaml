@@ -1,0 +1,12 @@
+build:
+  version : 1.0.0-qa
+
+loans:
+  message: "This is the PROD environment for Loans Service"
+  contactDetails:
+    name: "Application Support"
+    email: "application-support@gmail.com"
+  onCallSupport:
+    - (+91) 8527419632
+    - (+91) 3692581479
+    
